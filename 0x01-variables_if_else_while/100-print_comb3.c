@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point 
+ * main - Entry point
  *
  * Return: Always 0 (success)
  */
@@ -17,7 +17,7 @@ int main(void)
 			{
 				putchar(a);
 				putchar(b);
-				if (a != '8' || b !='9')
+				if (a != '8' || b != '9')
 				{
 					putchar(',');
 					putchar(' ');
