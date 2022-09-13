@@ -11,8 +11,6 @@ int main(void)
 
 	for (op = 'a'; op <= 'z'; op++)
 		putchar(op);
-	for (op = 'A'; op <= 'Z'; op++)
-		putchar(op);
 	putchar('\n');
 	return (0);
 }
