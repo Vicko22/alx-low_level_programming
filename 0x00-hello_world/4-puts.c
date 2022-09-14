@@ -5,7 +5,7 @@
  *
  * description- using puts to print
  *
- *return- zero
+ *return:0
  */
 
 int main(void)
