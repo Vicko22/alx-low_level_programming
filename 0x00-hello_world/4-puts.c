@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *main- printing characters with puts instead of printf
+ * main -printing characters with puts instead of printf
  *
  * description- using puts to print
  *
- *main-Return:0
+ *Return:0
  */
 
 int main(void)
