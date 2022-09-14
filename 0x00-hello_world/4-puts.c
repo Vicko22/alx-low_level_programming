@@ -6,7 +6,7 @@
  * description- using puts to print
  *
  *return- zero
- * /
+ */
 
 int main(void)
 {
