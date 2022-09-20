@@ -1,19 +1,25 @@
 #include "main.h"
 
 /**
- * print_alphabet - entry0
+ * print_alphabet_x10 - entry0
  * void: 2 preint alphabet
  * Return:0
  */
 
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
-	char w;
+	char d, i;
 
-	for (w = 'a'; w <= 'z'; w++)
+	for (i = '0'; i <= '9'; i++)
 
 	{
-		_putchar(w);
+		for (d = 'a'; d <= 'z'; d++)
+
+		{
+
+		_putchar(d);
+
+		}
 	}
 
 	_putchar('\n');
