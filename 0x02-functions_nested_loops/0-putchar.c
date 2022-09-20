@@ -2,11 +2,11 @@
 
 /**
  * main - Entry point
- * void: putchar variables 
+ * void: putchar variables
  * Return:0
  */
 
-int main(void);
+int main(void)
 {
 	_putchar('_');
 
