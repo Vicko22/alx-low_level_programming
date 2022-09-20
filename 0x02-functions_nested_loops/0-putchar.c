@@ -1,13 +1,13 @@
 #include "main.h"
 /**
  *
- *  * main -Entry point
+ * main -Entry point
  *
- *   *
+ * description - putchar 
  *
- *    * Return: 0 Always (success)
+ * Return: 0 Always (success)
  *
- *     */
+ */
 
 int main(void)
 
