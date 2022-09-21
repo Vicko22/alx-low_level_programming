@@ -2,7 +2,7 @@
 
 /**
  * _islower - checking
- * @c - description
+ * @c: frequent movement
  * Return:0
  */
 
