@@ -2,7 +2,7 @@
 
 /**
  * _islower - checking
- * c - description
+ * @c - description
  * Return:0
  */
 
