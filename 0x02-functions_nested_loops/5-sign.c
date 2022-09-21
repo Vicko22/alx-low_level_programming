@@ -3,7 +3,7 @@
 /**
  * print_sign - print number
  * @n: interger type
- * Return:1
+ * Return: 1 or 0 if false
  */
 
 int print_sign(int n)
@@ -17,7 +17,7 @@ int print_sign(int n)
 		return (1)
 	}
 
-	else if (n > 0)
+	else if (n < 0)
 
 	{
 		_putchar('-');
