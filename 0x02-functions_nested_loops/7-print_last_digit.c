@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _print_last_digit - last digit print
+ * print_last_digit - last digit print
  * @n : this is the interger type number
  * Return: last number value
  */
