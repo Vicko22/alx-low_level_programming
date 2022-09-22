@@ -1,8 +1,7 @@
 #include "main.h"
 
 /**
- * main - test positve or negative int
- * @void: interger
+ * main - tests functions that prints if interger is positive or negative
  * Return: 0
  */
 
@@ -10,7 +9,7 @@ int main(void)
 {
 	int i;
 
-	i = 0;
+	i = 98;
 	poistive_or_negative(i);
 
 	return (0);
