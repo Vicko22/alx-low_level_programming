@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-
+/**
+ * main - interger
+ * @void: print p
+ * Return: 0
+ */
 
 int main(void)
 
