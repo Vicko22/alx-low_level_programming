@@ -1,4 +1,4 @@
-#include <stdio.h>
+nclude <stdio.h>
 
 
 
@@ -28,7 +28,7 @@ int main(void)
 
 
 
-       /* while (i < 10)
+        /*while (i < 10)
 
         {
 
